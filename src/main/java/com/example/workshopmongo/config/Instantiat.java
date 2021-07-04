@@ -12,7 +12,6 @@ import com.example.workshopmongo.domain.Post;
 import com.example.workshopmongo.domain.User;
 import com.example.workshopmongo.dto.AuthorDTO;
 import com.example.workshopmongo.dto.CommentDTO;
-import com.example.workshopmongo.dto.UserDTO;
 import com.example.workshopmongo.repository.PostRepository;
 import com.example.workshopmongo.repository.UserRepository;
 
